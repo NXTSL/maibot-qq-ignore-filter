@@ -1,0 +1,11 @@
+[plugin]
+name = "qq_ignore_filter"
+config_version = "0.1.0"
+enabled = true
+
+[ignore]
+blocked_user_ids = []
+blocked_display_names = []
+apply_to_group = true
+apply_to_private = true
+log_ignored = true
